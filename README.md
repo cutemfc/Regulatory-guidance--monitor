@@ -20,7 +20,6 @@ Gap Analysis Support: Provides a structured interface for RA experts to document
 
 Knowledge Base: Automatically builds a local repository (master_regulations.csv) of all professional interpretations for long-term audit trails.
 
-# ☘️Result
-
+# ☘️ Result
 
 <img width="1854" height="943" alt="image" src="https://github.com/user-attachments/assets/b1912cf4-2154-4402-af12-cd01840b51ea" />
